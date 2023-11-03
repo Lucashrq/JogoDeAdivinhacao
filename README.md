@@ -10,3 +10,4 @@ Sempre que possível, irei implementar uma nova lógica ou tecnologia. Sempre qu
 Data: 03/11/2023
 
 - Aprendi a usar alguns comandos do Git na linha de comando para compartilhar meus projetos
+- Adicionei ao repositório o projeto base que será atualizado
