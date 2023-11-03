@@ -1,6 +1,6 @@
 var num_aleatorio = Math.floor(Math.random() * 1000) + 1
 var contador = 0
-
+ 
 function verificar_palpite () {
 
     contador++
