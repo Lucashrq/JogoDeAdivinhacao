@@ -16,4 +16,4 @@ Data: 03/11/2023
 Data: 06/11/2023
 
 - Adicionei ao código um contador de número de tentativas, onde cada jogada é contada e mostrada na tela para o usuário
-- Comentários foram adicionados linha por linha no código 
+- Comentários foram adicionados linha por linha no código (JavaScript)
