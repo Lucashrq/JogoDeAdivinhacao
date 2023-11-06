@@ -12,3 +12,8 @@ Data: 03/11/2023
 - Aprendi a usar alguns comandos do Git na linha de comando para compartilhar meus projetos
 - Adicionei ao repositório o projeto base que será atualizado
 - Alterei algumas coisas no estilo da página (CSS)
+
+Data: 06/11/2023
+
+- Adicionei ao código um contador de número de tentativas, onde cada jogada é contada e mostrada na tela para o usuário
+- Comentários foram adicionados linha por linha no código 
